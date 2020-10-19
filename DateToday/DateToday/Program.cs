@@ -6,7 +6,7 @@ namespace DateToday
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Kashif Bhai");
+            Console.WriteLine("Hello Kashif Bhai G");
         }
     }
 }
